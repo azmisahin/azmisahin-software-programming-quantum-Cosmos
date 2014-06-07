@@ -1,0 +1,13 @@
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\bin\Release\Cosmos.Ekran.exe.config
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\bin\Release\Cosmos.Ekran.exe
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\bin\Release\Cosmos.Ekran.pdb
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\bin\Release\Cosmos.Atom.dll
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\bin\Release\Cosmos.Kuark.dll
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\bin\Release\Cosmos.Atom.pdb
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\bin\Release\Cosmos.Kuark.pdb
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\obj\Release\Cosmos.Ekran.csprojResolveAssemblyReference.cache
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\obj\Release\Cosmos.Ekran.exe
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\obj\Release\Cosmos.Ekran.pdb
+D:\Cloud\azmisahincom@gmail.com\GoogleDrive\Develop\Source\Cosmos\Cosmos.Ekran\bin\Release\Cosmos.Ekran.exe.config
+D:\Cloud\azmisahincom@gmail.com\GoogleDrive\Develop\Source\Cosmos\Cosmos.Ekran\obj\Release\Cosmos.Ekran.exe
+D:\Cloud\azmisahincom@gmail.com\GoogleDrive\Develop\Source\Cosmos\Cosmos.Ekran\obj\Release\Cosmos.Ekran.pdb

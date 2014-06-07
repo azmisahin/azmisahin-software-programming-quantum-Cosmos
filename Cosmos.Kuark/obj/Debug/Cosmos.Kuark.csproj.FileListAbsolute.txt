@@ -1,0 +1,4 @@
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Kuark\bin\Debug\Cosmos.Kuark.dll
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Kuark\bin\Debug\Cosmos.Kuark.pdb
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Kuark\obj\Debug\Cosmos.Kuark.dll
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Kuark\obj\Debug\Cosmos.Kuark.pdb

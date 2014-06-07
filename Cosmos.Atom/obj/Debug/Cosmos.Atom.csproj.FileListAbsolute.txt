@@ -1,0 +1,4 @@
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Atom\bin\Debug\Cosmos.Atom.dll
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Atom\bin\Debug\Cosmos.Atom.pdb
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Atom\obj\Debug\Cosmos.Atom.dll
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Atom\obj\Debug\Cosmos.Atom.pdb

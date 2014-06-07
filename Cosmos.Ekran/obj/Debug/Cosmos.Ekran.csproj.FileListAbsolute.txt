@@ -1,0 +1,8 @@
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\bin\Debug\Cosmos.Ekran.exe.config
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\bin\Debug\Cosmos.Ekran.exe
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\bin\Debug\Cosmos.Ekran.pdb
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\bin\Debug\Cosmos.Kuark.dll
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\bin\Debug\Cosmos.Kuark.pdb
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\obj\Debug\Cosmos.Ekran.csprojResolveAssemblyReference.cache
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\obj\Debug\Cosmos.Ekran.exe
+C:\Users\AZMİ\Documents\Visual Studio 2013\Projects\Cosmos\Cosmos.Ekran\obj\Debug\Cosmos.Ekran.pdb
